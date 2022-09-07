@@ -10,9 +10,9 @@ public class nodo {
         }else{
             System.out.println("java presenta inconvenietes");
 
-            for (i= 1; i == a; i++ ){
+            for (int i=  1; i == 1; i++ ){
 
-                System.out.printf("hola");
+                System.out.print("hola");
 
 
 
