@@ -12,7 +12,8 @@ public class nodo {
 
             for (int i=  1; i == 1; i++ ){
 
-                System.out.print("hola");
+                System.out.println("si funciona");
+
 
 
 
